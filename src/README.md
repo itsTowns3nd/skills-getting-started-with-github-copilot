@@ -7,6 +7,14 @@ A super simple FastAPI application that allows students to view and sign up for 
 - View all available extracurricular activities
 - Sign up for activities
 
+## Running Tests
+
+From the project root, run:
+
+```bash
+python -m pytest -q
+```
+
 ## Getting Started
 
 1. Install the dependencies:
